@@ -1,0 +1,1 @@
+Simple banking system written in Java and uses mySQL database as Information systems 1 project
